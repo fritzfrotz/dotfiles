@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fritz.hollmann@gmail.com
+	name = Friedrich Hollmann
